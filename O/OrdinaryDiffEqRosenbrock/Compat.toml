@@ -117,7 +117,7 @@ OrdinaryDiffEqCore = "3"
 
 ["1.23 - 1"]
 DiffEqBase = "6.194.0 - 6"
-OrdinaryDiffEqDifferentiation = "2"
+OrdinaryDiffEqDifferentiation = "2.8"
 SciMLBase = "2.116.0 - 2"
 
 ["1.28 - 1"]
