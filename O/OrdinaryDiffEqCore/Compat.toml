@@ -230,7 +230,11 @@ DiffEqBase = "6.209.0 - 6"
 ["3.9 - 5"]
 Random = ["0.0.0", "1"]
 
-["4 - 4.3"]
+["4 - 4.3.0"]
+RecursiveArrayTools = "4"
+SciMLBase = "3.0 - 3.39"
+
+["4.3.1 - 4.3"]
 RecursiveArrayTools = "4"
 SciMLBase = "3"
 
@@ -257,21 +261,37 @@ RecursiveArrayTools = "4.2.0 - 4"
 Reexport = "1.2.2 - 1"
 SymbolicIndexingInterface = "0.3.43 - 0.3"
 
-["4.4 - 4.5"]
+["4.4 - 4.5.0"]
+ConcreteStructs = "0.2.3 - 0.2"
+SciMLBase = "3.10.0 - 3.39"
+
+["4.5.1 - 4.5"]
 ConcreteStructs = "0.2.3 - 0.2"
 SciMLBase = "3.10.0 - 3"
 
 ["4.4 - 4.6"]
 SciMLOperators = "1.15.0 - 1"
 
-["4.6"]
+["4.6 - 4.6.0"]
+CommonSolve = "0.2.4 - 0.2"
+SciMLBase = "3.30.0 - 3.39"
+
+["4.6.1 - 4.6"]
 CommonSolve = "0.2.4 - 0.2"
 SciMLBase = "3.30.0 - 3"
 
 ["4.7"]
 SciMLOperators = "1.23.0 - 1"
 
-["4.7 - 4"]
+["4.7 - 4.8.0"]
+Adapt = "4.5.2 - 4"
+CommonSolve = "0.2.6 - 0.2"
+ConstructionBase = "1.5.8 - 1"
+DiffEqBase = "7.4.2 - 7"
+FindFirstFunctions = "3"
+SciMLBase = "3.35.1 - 3.39"
+
+["4.8.1 - 4"]
 Adapt = "4.5.2 - 4"
 CommonSolve = "0.2.6 - 0.2"
 ConstructionBase = "1.5.8 - 1"
@@ -282,7 +302,29 @@ SciMLBase = "3.35.1 - 3"
 ["4.8 - 4"]
 SciMLOperators = "1.24.3 - 1"
 
-[5]
+["5 - 5.0.0"]
+ADTypes = "1.16.0 - 1"
+Accessors = "0.1.36 - 0.1"
+Adapt = "4.3.0 - 4"
+ConcreteStructs = "0.2"
+DataStructures = "0.19"
+DiffEqBase = "7"
+DocStringExtensions = "0.9"
+EnumX = "1"
+EnzymeCore = "0.7 - 0.8"
+FastClosures = "0.3"
+FastPower = "1.1.0 - 1"
+MuladdMacro = "0.2"
+PrecompileTools = "1.2.0 - 1"
+Preferences = "1.4.0 - 1"
+RecursiveArrayTools = "4"
+Reexport = "1.2.0 - 1"
+SciMLBase = "3.0 - 3.39"
+SciMLLogging = "1.7.1 - 1"
+SciMLOperators = "1.4.0 - 1"
+SymbolicIndexingInterface = "0.3.31 - 0.3"
+
+["5.0.1 - 5"]
 ADTypes = "1.16.0 - 1"
 Accessors = "0.1.36 - 0.1"
 Adapt = "4.3.0 - 4"
